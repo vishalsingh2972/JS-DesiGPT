@@ -7,8 +7,7 @@ It was interesting to understand and learn how OpenAI uses APIs to take input an
 
 ## Project Demo
 
-https://github.com/vishalsingh2972/JS-DesiGPT/assets/106817047/bc5d6133-d76a-47e2-afa8-f72b64ca6d93
-
+https://github.com/vishalsingh2972/JS-DesiGPT/assets/106817047/b90cdf44-1584-4a4b-bf94-c61fe49a1a36
 
 ## Contribute
 
