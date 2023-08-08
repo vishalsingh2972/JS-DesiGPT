@@ -18,7 +18,7 @@ async function getMessage(){
             'Authorization':`Bearer ${API_KEY}`,
             'Content-Type': 'application/json'
         },
-        body : JSON.stringify({
+        body: JSON.stringify({
           model: "gpt-3.5-turbo",
           messages: [{role: "user", content: inputElement.value}],
           max_tokens: 100
